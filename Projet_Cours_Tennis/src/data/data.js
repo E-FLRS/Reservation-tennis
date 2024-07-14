@@ -4,13 +4,13 @@ import { getFirestore, collection, getDocs } from 'firebase/firestore';
 
 const firebaseConfig = {
     apiKey: "",
-    authDomain: "courttennis-accd1.firebaseapp.com",
-    databaseURL: "https://courttennis-accd1-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "courttennis-accd1",
-    storageBucket: "courttennis-accd1.appspot.com",
-    messagingSenderId: "1004694344259",
-    appId: "1:1004694344259:web:92264808a3de2327c3faf6",
-    measurementId: "G-3V15ER4TXW"
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
