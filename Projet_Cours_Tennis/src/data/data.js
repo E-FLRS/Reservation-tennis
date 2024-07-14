@@ -3,7 +3,7 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore, collection, getDocs } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCsRDWEP_C8ohoDYuvPJWYudcqHgLHcTiY",
+    apiKey: "",
     authDomain: "courttennis-accd1.firebaseapp.com",
     databaseURL: "https://courttennis-accd1-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "courttennis-accd1",
